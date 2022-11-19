@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click](https://domdzia.github.io/Clipboard-landing-page/)
 
 
 ### Built with
